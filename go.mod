@@ -3,7 +3,7 @@ module github.com/tpaulus/tmobile-internet-exporter
 go 1.21
 
 require (
-	github.com/jonboulle/clockwork v0.4.0
+	github.com/jonboulle/clockwork v0.5.0
 	github.com/prometheus/client_golang v1.20.5
 )
 
