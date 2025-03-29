@@ -4,7 +4,7 @@ go 1.21
 
 require (
 	github.com/jonboulle/clockwork v0.5.0
-	github.com/prometheus/client_golang v1.21.0
+	github.com/prometheus/client_golang v1.21.1
 )
 
 require (
