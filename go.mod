@@ -2,7 +2,7 @@ module github.com/tpaulus/tmobile-internet-exporter
 
 go 1.22
 
-toolchain go1.24.2
+toolchain go1.24.3
 
 require (
 	github.com/jonboulle/clockwork v0.5.0
